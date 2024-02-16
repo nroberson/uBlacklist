@@ -857,3 +857,4 @@
 *://yaoply.com/*
 
 *://swiftpackageregistry.com/*
+*://swiftpackageindex.com/*
