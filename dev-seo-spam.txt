@@ -855,3 +855,5 @@
 *://www.wenyanet.com/*
 *://xstack.us/*
 *://yaoply.com/*
+
+*://swiftpackageregistry.com/*
